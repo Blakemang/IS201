@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: whitesmoke;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(9, 9, 171);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: darkblue;
+}
+h1 {
+    color: black;
+}
+.Resumelistheading {
+font-weight: bold;
+font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
+.bold {font-weight: bold;}
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+.homebg {
+    background-image: url("../images/NewBGHome.jpeg");
+}
